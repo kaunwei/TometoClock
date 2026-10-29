@@ -1,0 +1,10 @@
+# Local implementation tickets
+/todo/
+
+# Swift Package Manager
+.build/
+.swiftpm/
+
+# Local editor and agent data
+.DS_Store
+.agents/
